@@ -1,3 +1,10 @@
+"""
+Author: Wouter Deleersnyder, wouter.deleersnyder@kuleuven.be
+code completion: 15/01/2024
+
+The code below describes the step-by-step process in constructing a relative error correction term for replacing expensive 3D modelling.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
