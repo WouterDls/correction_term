@@ -10,5 +10,6 @@ RE = (HF - LF)/(LF)
 ```
 The LF data is efficiently computed with a semi-analytical 1D forward model. The HF data is generated with, e.g., SimPEG (https://simpeg.xyz/).
 
-The results are encouraging even with few training samples, but obtaining a high accuracy is difficult with relatively simple data fit models. We view the performance as a learning gain, representing the gain from the surrogate model while acknowledging a residual discrepancy. 
+The results are encouraging even with few training samples, but obtaining a high accuracy requires more data. We view the performance as a learning gain, representing the gain from the surrogate model while acknowledging a residual discrepancy. 
 
+![Learning Gain](learning_gain_pdf.png)
