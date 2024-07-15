@@ -1,6 +1,6 @@
 # A multidimensional AI-trained correction term for the 1D approximation with Gaussian process regression for Airborne TDEM data
 
-**_More details can be found in the manuscript (https://arxiv.org/abs/2311.13998 or https://www.sciencedirect.com/science/article/pii/S0098300424000852), published in Computers & Geosciences._**
+**_More details can be found in the manuscript (https://arxiv.org/abs/2311.13998 or https://doi.org/10.1016/j.cageo.2024.105602), published in Computers & Geosciences._**
 
 
 Full 3D inversion of time-domain electromagnetic data requires immense computational resources. To overcome the time-consuming 3D simulations, we propose a surrogate model trained on 3D simulation data and predicts the approximate output much faster. We exemplify the approach for two-layered models.
